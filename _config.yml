@@ -29,9 +29,13 @@ twitter_username: rafverbeelen
 # github_username:  jekyll
 
 # Build settings
+<<<<<<< HEAD
 
 theme: minima
 
+=======
+theme: minima
+>>>>>>> parent of 3db8076 (Install Tale Theme)
 plugins:
   - jekyll-feed
   
