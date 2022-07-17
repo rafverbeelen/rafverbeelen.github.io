@@ -31,14 +31,18 @@ twitter_username: rafverbeelen
 # Build settings
 <<<<<<< HEAD
 
-theme: minima
+remote_theme: chesterhow/tale
+
+permalink:    /:year-:month-:day/:title
+paginate:     5
 
 =======
 theme: minima
 >>>>>>> parent of 3db8076 (Install Tale Theme)
 plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
   - jekyll-feed
-  
 
 # Exclude from processing.
 # The following items will not be processed, by default.
