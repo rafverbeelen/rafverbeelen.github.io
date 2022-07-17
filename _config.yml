@@ -30,15 +30,11 @@ twitter_username: rafverbeelen
 
 # Build settings
 
-remote_theme: chesterhow/tale
-
-permalink:    /:year-:month-:day/:title
-paginate:     5
+theme: minima
 
 plugins:
-  - jekyll-paginate
-  - jekyll-remote-theme
   - jekyll-feed
+  
 
 # Exclude from processing.
 # The following items will not be processed, by default.
