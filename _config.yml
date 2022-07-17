@@ -51,7 +51,10 @@ minima:
 # - about.md
 
 # Build settings
-theme: minima
+theme:      tale
+
+permalink:  /:year-:month-:day/:title
+paginate:   5
 
 plugins:
  - jekyll-feed
