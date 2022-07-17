@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Morocco & the Sahara. More soon.
+Morocco and the Sahara. More soon.
