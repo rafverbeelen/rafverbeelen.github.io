@@ -39,7 +39,10 @@ gem "webrick", "~> 1.7"
 >>>>>>> parent of 3db8076 (Install Tale Theme)
 =======
 gem "webrick", "~> 1.7"
+<<<<<<< HEAD
 
 gem "jekyll-remote-theme"
 gem "jekyll-paginate"
 >>>>>>> parent of ac7ebd2 (Revert to Minima Theme)
+=======
+>>>>>>> parent of 3db8076 (Install Tale Theme)
