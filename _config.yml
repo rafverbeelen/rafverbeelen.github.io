@@ -1,8 +1,20 @@
-# Build settings
+# Site settings
+title:          Erg-Reg
+
+# Author
+author:
+  name:         Raf Verbeelen
+
+# Theme
+
 remote_theme: chesterhow/tale
+
+# Permalinks
 
 permalink:    /:year-:month-:day/:title
 paginate:     5
+
+# Gems
 
 plugins:
  - jekyll-feed
