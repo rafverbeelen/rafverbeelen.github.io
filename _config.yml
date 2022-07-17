@@ -51,12 +51,15 @@ minima:
 # - about.md
 
 # Build settings
-theme:      tale
+remote_theme: chesterhow/tale
 
-permalink:  /:year-:month-:day/:title
-paginate:   5
+permalink:    /:year-:month-:day/:title
+paginate:     5
 
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-paginate
+ - jekyll-remote-theme
+ 
  

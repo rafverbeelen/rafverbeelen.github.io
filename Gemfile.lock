@@ -238,11 +238,6 @@ GEM
       faraday (>= 0.17.3, < 3)
     simpleidn (0.2.1)
       unf (~> 0.1.4)
-    tale (0.1.8)
-      jekyll (~> 3.6)
-      jekyll-feed (~> 0.10)
-      jekyll-paginate (~> 1.1)
-      jekyll-seo-tag (~> 2.5)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     thread_safe (0.3.6)
@@ -264,7 +259,8 @@ DEPENDENCIES
   github-pages (~> 227)
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
-  tale
+  jekyll-paginate
+  jekyll-remote-theme
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
