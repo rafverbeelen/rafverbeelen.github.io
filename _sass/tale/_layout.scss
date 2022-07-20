@@ -35,6 +35,12 @@ footer,
       opacity: .6;
     }
   }
+  
+  &-img {
+    display: inline-block;
+    margin: 0;
+    padding-right: .4rem;
+  }
 
   ul {
     list-style-type: none;

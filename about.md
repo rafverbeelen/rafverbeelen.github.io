@@ -6,4 +6,4 @@ permalink: /about/
 
 Morocco and the Sahara. More soon.
 
-![Phosphates Belt](./assets/phosphates-belt.jpeg)
+![Phosphates Belt](./assets/phosphates-conveyor-belt.jpeg)
